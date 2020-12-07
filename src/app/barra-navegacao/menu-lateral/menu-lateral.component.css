@@ -37,6 +37,7 @@
 .profile-card {
     text-align: center;
     padding: 0 20px 20px 20px;
+    background-color: #1E2129;
 }
 img {
     width: 100px;
@@ -47,4 +48,8 @@ img {
 
 .header{
     color: #9d9d9d;
+}
+
+.sub-menu{
+    background-color:#2D323E;
 }
